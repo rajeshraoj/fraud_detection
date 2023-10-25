@@ -5,3 +5,5 @@ def new_model():
 
 def updated_model():
     print('updated model')
+    print('updated model2')
+
